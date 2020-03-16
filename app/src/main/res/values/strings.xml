@@ -1,0 +1,103 @@
+<resources>
+    <string name="app_name">Tour Guide By State</string>
+    <!-- Names of states -->
+    <string name="arizona">Arizona</string>
+    <string name="washington">Washington</string>
+    <string name="texas">Texas</string>
+    <string name="california">California</string>
+    <string name="nevada">Nevada</string>
+    <!-- Names of Arizona tour spots -->
+    <string name="antelope_canyon_name">Antelope Canyon</string>
+    <string name="grand_canyon_name">Grand Canyon</string>
+    <string name="horseshoe_bend_name">Horseshoe Bend</string>
+    <string name="hoover_dam_name">Hoover Dam</string>
+    <string name="asu_name">Arizona State University</string>
+    <string name="u_of_a_name">The University of Arizona</string>
+    <string name="prescott_name">Prescott</string>
+    <string name="talking_stick_arena_name">Talking Stick Resort Arena</string>
+    <!-- Descriptions of Arizona tour spots -->
+    <string name="antelope_canyon_desc">Antelope Canyon is a slot canyon in the American Southwest, on Navajo land east of Page, Arizona. It includes two separate, scenic slot canyon sections, referred to as Upper Antelope Canyon, and Lower Antelope Canyon.</string>
+    <string name="grand_canyon_desc">Grand Canyon National Park, in Arizona, is home to much of the immense Grand Canyon, with its layered bands of red rock revealing millions of years of geological history. Viewpoints include Mather Point, Yavapai Observation Station and architect Mary Colter’s Lookout Studio and her Desert View Watchtower. Lipan Point, with wide views of the canyon and Colorado River, is a popular, especially at sunrise and sunset.</string>
+    <string name="u_of_a_desc">The University of Arizona is a public research university in Tucson, Arizona. Founded in 1885, the UA was the first university in the Arizona Territory.</string>
+    <string name="asu_desc">Arizona State University is a public metropolitan research university on five campuses across the Phoenix metropolitan area, and four regional learning centers throughout Arizona. ASU is one of the largest public universities by enrollment in the U.S.</string>
+    <string name="horseshoe_bend_desc">Horseshoe Bend is a horseshoe-shaped incised meander of the Colorado River located near the town of Page, Arizona, United States. Horseshoe Bend is located 5 miles downstream from the Glen Canyon Dam and Lake Powell within Glen Canyon National Recreation Area, about 4 miles southwest of Page.</string>
+    <string name="hoover_dam_desc">Hoover Dam is a concrete arch-gravity dam in the Black Canyon of the Colorado River, on the border between the U.S. states of Nevada and Arizona. It was constructed between 1931 and 1936 during the Great Depression and was dedicated on September 30, 1935, by President Franklin D. Roosevelt.</string>
+    <string name="prescott_desc">Prescott is a city in central Arizona. Downtown, historic Whiskey Row is known for its bars and live music venues. The Sharlot Hall Museum documents the region’s pioneer-era history. The Smoki Museum exhibits artifacts from indigenous peoples of the Southwest. To the northeast, Watson Lake is home to hundreds of bird species, and a circuit of trails runs among the granite boulders dotting its shore.</string>
+    <string name="talking_stick_arena_desc">Talking Stick Resort Arena is a sports and entertainment arena in downtown Phoenix, Arizona, United States. It opened on June 6, 1992, at a construction cost of $89 million. It was known as America West Arena from 1992 to 2006 and as US Airways Center from 2006 to 2015.</string>
+    <!-- Names of California tour spots -->
+    <string name="napa_county_name">Napa County</string>
+    <string name="point_reyes_name">Point Reyes National Seashore</string>
+    <string name="joshua_tree_name">Joshua Tree National Park</string>
+    <string name="channel_islands_name">Channel Islands National Park</string>
+    <string name="death_valley_name">Death Valley National Park</string>
+    <string name="yosemite_name">Yosemite National Park</string>
+    <string name="hollywood_name">Hollyhood</string>
+    <string name="half_moon_bay_name">Half Moon Bay</string>
+    <string name="mystery_spot_name">The Mystery Spot</string>
+    <!-- Descriptions of California tour spots -->
+    <string name="napa_valley_desc">Napa County is north of San Francisco, in California. It\'s known for hundreds of hillside vineyards in the Napa Valley wine region. In the city of Napa, Oxbow Public Market features regional gourmet food. The Napa Valley Wine Train is a vintage locomotive and traveling restaurant running through the valley. Northwest of Napa is Yountville, a town known for high-end restaurants and sparkling wine.</string>
+    <string name="point_reyes_desc">Point Reyes National Seashore is a vast expanse of protected coastline in Northern California’s Marin County. Beaches here include Wildcat Beach, with the cliffside Alamere Falls. On a rocky headland, the 1870 Point Reyes Lighthouse is a viewpoint for migrating gray whales. The Phillip Burton Wilderness features extensive trails through grassland, firs and pine forest, and up to the peak of Mount Wittenberg.</string>
+    <string name="joshua_tree_desc">Joshua Tree National Park is a vast protected area in southern California. It\'s characterized by rugged rock formations and stark desert landscapes. Named for the region’s twisted, bristled Joshua trees, the park straddles the cactus-dotted Colorado Desert and the Mojave Desert, which is higher and cooler. Keys View looks out over the Coachella Valley. Hiking trails weave through the boulders of Hidden Valley.</string>
+    <string name="channel_islands_desc">Channel Islands National Park comprises 5 ecologically rich islands off the Southern California coast. Anacapa Island has trails to a 1932 lighthouse and clifftop Inspiration Point. Santa Cruz Island’s many sea caves include the vast Painted Cave. Santa Rosa Island features rare Torrey pines. Thousands of seals gather at San Miguel Island’s Point Bennett. Southernmost Santa Barbara Island draws nesting seabirds.</string>
+    <string name="death_valley_desc">Death Valley National Park straddles eastern California and Nevada. It’s known for Titus Canyon, with a ghost town and colorful rocks, and Badwater Basin’s salt flats, North America\'s lowest point. Above, Telescope Peak Trail weaves past pine trees. North of the spiky salt mounds known as the Devil’s Golf Course, rattlesnakes live in Mesquite Flat Sand Dunes.</string>
+    <string name="yosemite_desc">Yosemite National Park is in California’s Sierra Nevada mountains. It’s famed for its giant, ancient sequoia trees, and for Tunnel View, the iconic vista of towering Bridalveil Fall and the granite cliffs of El Capitan and Half Dome. In Yosemite Village are shops, restaurants, lodging, the Yosemite Museum and the Ansel Adams Gallery, with prints of the photographer’s renowned black-and-white landscapes of the area.</string>
+    <string name="hollywood_desc">A larger-than-life symbol of the entertainment business, Hollywood beckons tourists with landmarks like TCL Chinese Theatre and star-studded Walk of Fame. Highlights include Paramount Pictures, historic music venues like the Hollywood Bowl, and Dolby Theatre, home of the Oscars. Scenesters can choose from improv comedy clubs, retro-cool bars and velvet-roped nightclubs. Locals frequent eateries in nearby Thai Town.</string>
+    <string name="half_moon_bay_desc">Half Moon Bay is a small city on the California coast, south of San Francisco. A string of beaches along the bay includes Half Moon Bay State Beach. The Coastside Trail leads north to Pillar Point, near the huge waves of the Mavericks surf spot. Nearby, Montara Mountain rises in the protected Rancho Corral de Tierra area. The Purisima Creek Redwoods Preserve is on the slopes of the Santa Cruz Mountains.</string>
+    <string name="mystery_spot_desc">The Mystery Spot is a tourist attraction near Santa Cruz, California, opened in 1939 by George Prather. Visitors experience demonstrations that appear to defy gravity, on the short but steep uphill walk and inside a wooden building on the site.</string>
+    <!-- Names of Nevada tour spots -->
+    <string name="vegas_name">Las Vegas</string>
+    <string name="lake_tahoe_name">Lake Tahoe</string>
+    <string name="red_rock_canyon_name">Red Rock Canyon National Park</string>
+    <string name="lake_mead_name">Lake Mead National Recreation Area</string>
+    <string name="valley_of_fire_name">Valley of Fire State Park</string>
+    <string name="great_basin_name">Great Basin National Park</string>
+    <!-- Descriptions of Nevada tour spots -->
+    <string name="vegas_desc">Las Vegas (Spanish for "The Meadows"), officially the City of Las Vegas and often known simply as Vegas, is the 28th-most populated city in the United States, the most populated city in the state of Nevada, and the county seat of Clark County. The city anchors the Las Vegas Valley metropolitan area and is the largest city within the greater Mojave Desert.[6] Las Vegas is an internationally renowned major resort city, known primarily for its gambling, shopping, fine dining, entertainment, and nightlife. The Las Vegas Valley as a whole serves as the leading financial, commercial, and cultural center for Nevada.</string>
+    <string name="lake_tahoe_desc">Lake Tahoe is a large freshwater lake in the Sierra Nevada Mountains, straddling the border of California and Nevada. It’s known for its beaches and ski resorts. On the southwest shore, Emerald Bay State Park contains the 1929 Nordic-style mansion Vikingsholm. Along the lake’s northeast side, Lake Tahoe Nevada State Park includes Sand Harbor Beach and Spooner Lake, a gateway to the long-distance Tahoe Rim Trail.</string>
+    <string name="red_rock_canyon_desc">Red Rock Canyon National Conservation Area lies in Nevada’s Mojave Desert. It’s known for geological features such as towering red sandstone peaks and the Keystone Thrust Fault, as well as Native American petroglyphs. Panoramic viewing spots dot the 13-mile Scenic Drive. The sheltered Ice Box Canyon has seasonal waterfalls. To the south, Spring Mountain Ranch State Park features historic buildings and hiking trails.</string>
+    <string name="lake_mead_desc">Lake Mead National Recreation Area is a U.S. National Recreation Area located in southeastern Nevada and northwestern Arizona.</string>
+    <string name="valley_of_fire_desc">Valley of Fire State Park is a public recreation and nature preservation area covering nearly 46,000 acres located 16 miles south of Overton, Nevada. The state park derives its name from red sandstone formations, the Aztec Sandstone, which formed from shifting sand dunes 150 million years ago.</string>
+    <string name="great_basin_desc">Great Basin National Park is in eastern Nevada near the Utah border. It\'s in the Great Basin Desert and contains most of the South Snake mountains. In the north, the mountain-hugging Wheeler Peak Scenic Drive leads to towering Wheeler Peak. Nearby is one of several ancient bristlecone pine groves. The marble Lehman Caves have distinctive stalactites and other formations. Park wildlife includes bighorn sheep.</string>
+    <!-- Names of Texas tour spots -->
+    <string name="nasa_name">Space Center Houston</string>
+    <string name="big_bend_name">Big Bend National Park</string>
+    <string name="the_alamo_name">The Alamo</string>
+    <string name="guadalupe_mountains_name">Guadalupe Mountains National Park</string>
+    <string name="padre_island_name">Padre Island</string>
+    <string name="dallas_name">Dallas</string>
+    <string name="austin_name">Austin</string>
+    <string name="toyota_center_name">Toyota Center</string>
+    <!-- Descriptions of Texas tour spots -->
+    <string name="toyota_center_desc">The Toyota Center is a multi-purpose arena in the northwest United States, located in Kennewick, Washington. Opened 32 years ago in 1988 as the Tri-Cities Coliseum, the arena\'s name was changed in 2004 to the Three Rivers Coliseum to match the Three Rivers Convention Center, which was built next door in the same year.</string>
+    <string name="austin_desc">Austin is the state capital of Texas, an inland city bordering the Hill Country region. Home to the University of Texas flagship campus, Austin is known for its eclectic live-music scene centered around country, blues and rock. Its many parks and lakes are popular for hiking, biking, swimming and boating. South of the city, Formula One\'s Circuit of the Americas raceway has hosted the United States Grand Prix.</string>
+    <string name="dallas_desc">Dallas, a modern metropolis in north Texas, is a commercial and cultural hub of the region. Downtown’s Sixth Floor Museum at Dealey Plaza commemorates the site of President John F. Kennedy’s assassination in 1963. In the Arts District, the Dallas Museum of Art and the Crow Collection of Asian Art cover thousands of years of art. The sleek Nasher Sculpture Center showcases contemporary sculpture.</string>
+    <string name="padre_island_desc">Padre Island National Seashore is a national seashore located on Padre Island off the coast of South Texas. In contrast to South Padre Island, known for its beaches and vacationing college students, PINS is located on North Padre Island and consists of a long beach where nature is preserved. </string>
+    <string name="guadalupe_mountains_desc">Guadalupe Mountains National Park is in the vast Chihuahuan Desert of western Texas. It’s known for its bright-white Salt Basin Dunes, wildlife-rich grassland and fossilized reef mountains. The Guadalupe Peak Trail weaves up through a conifer forest to the state’s highest summit, with views of the rocky El Capitan peak to the south. In the north, the McKittrick Canyon Trail is known for its colorful fall foliage.</string>
+    <string name="the_alamo_desc">The Alamo Mission in San Antonio, commonly called The Alamo and originally known as the Misión San Antonio de Valero, is a historic Spanish mission and fortress compound founded in the 18th century by Roman Catholic missionaries in what is now San Antonio, Texas, United States.</string>
+    <string name="big_bend_desc">Big Bend National Park is in southwest Texas and includes the entire Chisos mountain range and a large swath of the Chihuahuan Desert. The Ross Maxwell Scenic Drive leads to the ruins of Sam Nail Ranch, now home to desert wildlife. The Santa Elena Canyon, carved by the Rio Grande, features steep limestone cliffs. Langford Hot Springs, near the Mexican border, has pictographs and the foundations of an old bathhouse.</string>
+    <string name="nasa_desc">Space Center Houston is a leading science and space learning center, the official visitor center of NASA Johnson Space Center in Houston and a Smithsonian Affiliate museum. The organization is owned and operated by the nonprofit Manned Spaceflight Education Foundation, a 501 organization.</string>
+    <!-- Names of Washington tour spots -->
+    <string name="space_needle_name">Space Needle</string>
+    <string name="leavenworth_name">Leavenworth</string>
+    <string name="poulsbo_name">Poulsbo</string>
+    <string name="mount_rainer_name">Mount Rainier National Park</string>
+    <string name="olympic_name">Olympic National Park</string>
+    <string name="amazon_spheres_name">Amazon Spheres</string>
+    <string name="microsoft_name">Microsoft</string>
+    <string name="uw_name">University of Washington</string>
+    <string name="snoqualmie_falls_name">Snoqualmie Falls</string>
+    <string name="pullman_name">Pullman</string>
+    <!-- Descriptions of Washington tour spots -->
+    <string name="space_needle_desc">The Space Needle is an observation tower in Seattle, Washington, United States. It is a city landmark and is considered an icon of Seattle. It was built in the Seattle Center for the 1962 World\'s Fair, which drew over 2.3 million visitors. Nearly 20,000 people a day used its elevators during the event.</string>
+    <string name="leavenworth_desc">Leavenworth is a city in Chelan County, Washington, United States. It is part of the Wenatchee−East Wenatchee Metropolitan Statistical Area. The population was 1,965 at the 2010 census.[6] The entire town center is modeled on a Bavarian village as part of a civic initiative that began in the 1960s. The area is a major four season tourist destination with festivals nearly every month and a multitude of events scheduled on weekends and weekdays year round.</string>
+    <string name="poulsbo_desc">Poulsbo is a city on Liberty Bay in Kitsap County, Washington, United States. It is the smallest of the four cities in Kitsap County. The population was 9,200 at the 2010 census and an estimated 10,927 in 2018.</string>
+    <string name="mount_rainer_desc">Mount Rainier National Park, a 369-sq.-mile Washington state reserve southeast of Seattle, surrounds glacier-capped, 14,410-ft. Mount Rainier. Atop 6,400-ft.-high Sunrise, the highest point in the park reachable by car, visitors can admire Rainier and other nearby volcanoes, including Mount Adams. The park’s 5,400-ft.-high Paradise overlook offers mountain views, summertime wildflower meadows and hiking trailheads.</string>
+    <string name="olympic_desc">Olympic National Park is on Washington\'s Olympic Peninsula in the Pacific Northwest. The park sprawls across several different ecosystems, from the dramatic peaks of the Olympic Mountains to old-growth forests. The summit of glacier-clad Mt. Olympus is popular with climbers, and hiking and backpacking trails cut through the park\'s rainforests and along its Pacific coastline.</string>
+    <string name="amazon_spheres_desc">Ultramodern office building with lush botanical gardens, open for public tours by appointment.</string>
+    <string name="microsoft_desc">Microsoft Corporation is an American multinational technology company with headquarters in Redmond, Washington. It develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services.</string>
+    <string name="uw_desc">The University of Washington is a public research university in Seattle, Washington. Founded in 1861, Washington was first established in downtown Seattle approximately a decade after the city\'s founding to aid its economic development.</string>
+    <string name="snoqualmie_falls_desc">Snoqualmie Falls is a 268-foot waterfall in the northwest United States, located east of Seattle on the Snoqualmie River between Snoqualmie and Fall City, Washington.</string>
+    <string name="pullman_desc">Pullman is the largest city in Whitman County, located in southeastern Washington state within the Palouse region of the Pacific Northwest. The population was 29,799 at the 2010 census, and estimated to have reached 34,019 in 2018</string>
+</resources>
+
+    

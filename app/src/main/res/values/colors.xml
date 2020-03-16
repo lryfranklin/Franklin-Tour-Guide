@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_color">#0077ff</color>
+    <color name="primary_color_dark">#520202</color>
+    <color name="background">#fff56e</color>
+
+    <color name="arizona">#ff4a4a</color>
+    <color name="california">#000000</color>
+    <color name="washington">#e602f2</color>
+    <color name="nevada">#02e032</color>
+    <color name="texas">#fcba03</color>
+</resources>
